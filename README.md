@@ -1,5 +1,4 @@
-# Project 5
-## Wild Fires in the United States
+# Wild Fires in the United States
 
 
 *By: Tyler Zarnik & Asher Lewis* 
